@@ -1,0 +1,5 @@
+cameras:
+  - name: driveway
+    url: rtsp://10.0.0.127:554/cam/realmonitor
+    username: admin
+    password: 420247

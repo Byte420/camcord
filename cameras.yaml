@@ -1,0 +1,11 @@
+cameras:
+  - id: "driveway"
+    name: "Driveway"
+    username: "admin"
+    password: "420247"
+    ip: "10.0.0.127"
+    port: 554
+    path: "/cam/realmonitor?channel=1&subtype=1"
+    snapshot_interval: 5
+    discord_channel: "driveway-feed"
+
